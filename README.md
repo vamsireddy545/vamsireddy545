@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vamsi
+- 👀 I’m interested in coding, playing sports and video games.
+- 🌱 I’m currently learning many important computer science cources related to networking
+- 💞️ I’m looking to collaborate on any projects on coding.
+- 📫 How to reach me : vamsireddy545@gmail.com
